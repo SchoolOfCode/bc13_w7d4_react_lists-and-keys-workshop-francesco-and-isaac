@@ -11,7 +11,9 @@ function App() {
   return (
     <div id="app">
       <Header  />
-      <Main><Post></Post></Main> 
+      <Main>
+      <Post></Post>
+      </Main> 
       <Footer />
     </div>
   );
